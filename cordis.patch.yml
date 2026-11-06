@@ -1,0 +1,4 @@
+# dsh-qq-image bundle patch：往宿主 Loader 插一行服务端插件
+- insert:
+    - id: dsh-qq-image
+      name: 'dsh-qq-image'
